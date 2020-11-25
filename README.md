@@ -13,7 +13,7 @@ HTML
 Bootstrap
 Google fonts
 
-![Screenshot](Assets\screenshot.png)
+![Screenshot](assets\screenshot.png)
 
 # Website
 
