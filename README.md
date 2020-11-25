@@ -17,4 +17,4 @@ Google fonts
 
 # Website
 
-https://pboerma.github.io/updatePortfolio/
+https://pboerma.github.io/portfolio/
