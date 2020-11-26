@@ -67,3 +67,13 @@ body {
     font-weight:700;
   }
   [type="submit"]:hover { background:#CC4949; }
+
+  .col-md-5 {
+  padding-top: 25px ;
+  border-width: 2em;
+  color:black;
+  padding: 10px;
+  box-shadow: black;
+  outline-color: black;
+
+  }
