@@ -13,8 +13,8 @@ HTML
 Bootstrap
 Google fonts
 
-![Screenshot](Assets\screenshot.png)
+![Screenshot](assets\screenshot.png)
 
 # Website
 
-https://pboerma.github.io/updatePortfolio/
+https://pboerma.github.io/portfolio/
