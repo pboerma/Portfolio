@@ -13,7 +13,7 @@ HTML
 Bootstrap
 Google fonts
 
-![Screenshot](assets\screenshot.png)
+![Screenshot](https://github.com/pboerma/portfolio/blob/master/assets/screenshot.png)
 
 # Website
 
