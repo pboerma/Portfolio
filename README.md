@@ -1,10 +1,11 @@
 # Updated portfolio!
 
-For this assingnment we are responsible for updating our profile with details of both our profesional work and work from coding
+For this assingnment we are responsible for updating our profile with details of both our profesional work and work from coding 
 
 # Content
 
-Profile update includes updated images, 3 examples of work in my portfolio and links to Git hub and CSS and formating changes
+My profile includes updated projects that we have worked on over the past few years. Each project has the link to the deployed page as well as the repository to view. 
+
 
 # Sources and programs used
 
@@ -15,6 +16,14 @@ Google fonts
 
 ![Screenshot](https://github.com/pboerma/portfolio/blob/master/assets/screenshot.png)
 
-# Website
+# Future features
+
+Create a POST form for Email so people visitng my page will be able to interact with the form
+Add more creative content to the page
+Fix responsiveness for landing page
+Add more visuals to page including images and different styling
+
+# Website and Repo
 
 https://pboerma.github.io/portfolio/
+https://github.com/pboerma/portfolio
