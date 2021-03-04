@@ -211,6 +211,9 @@ p {
         .navigation .navbar .navbar-nav .nav-item.active a::before, .navigation .navbar .navbar-nav .nav-item:hover a::before {
           height: 45px; }
 
+          /* 
+          Header Styling */
+
 .header-content {
   height: 730px;
   width: 100%;
@@ -224,112 +227,13 @@ p {
   @media (max-width: 767px) {
     .header-content {
       height: 550px; } }
-  .header-content .header-shape {
-    position: absolute !important; }
-    .header-content .header-shape.shape-one {
-      top: 0 !important;
-      left: 0 !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-one img {
-          width: 40px; } }
-    .header-content .header-shape.shape-tow {
-      top: -18px !important;
-      left: 20% !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-tow img {
-          width: 40px; } }
-    .header-content .header-shape.shape-three {
-      top: 0 !important;
-      left: 40% !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-three img {
-          width: 100px; } }
-    .header-content .header-shape.shape-fore {
-      top: 28px !important;
-      right: 7.6% !important;
-      left: auto !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-fore img {
-          width: 40px; } }
-    .header-content .header-shape.shape-five {
-      right: 30px !important;
-      bottom: 35% !important;
-      left: auto !important;
-      top: auto !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-five {
-          right: 20px !important;
-          bottom: 48% !important; } }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-five img {
-          width: 40px; } }
-    .header-content .header-shape.shape-six {
-      top: 44% !important;
-      left: 13% !important;
-      -webkit-transform: translateY(-50%);
-      -moz-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      -o-transform: translateY(-50%);
-      transform: translateY(-50%); }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-six img {
-          width: 40px; } }
-    .header-content .header-shape.shape-seven {
-      left: 30px !important;
-      bottom: 50px !important;
-      top: auto !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-seven {
-          left: 15px !important;
-          bottom: 25px !important; } }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-seven img {
-          width: 100px; } }
-    .header-content .header-shape.shape-eight {
-      left: 90px !important;
-      bottom: 140px !important;
-      top: auto !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-eight {
-          left: 50px !important;
-          bottom: 70px !important; } }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-eight img {
-          width: 100px; } }
-    .header-content .header-shape.shape-nine {
-      left: 50% !important;
-      -webkit-transform: translateX(-50%);
-      -moz-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-      -o-transform: translateX(-50%);
-      transform: translateX(-50%);
-      bottom: 28px !important;
-      top: auto !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-nine {
-          left: 65% !important;
-          bottom: 20px !important; } }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-nine img {
-          width: 100px; } }
-    .header-content .header-shape.shape-ten {
-      right: 30px !important;
-      bottom: 5px !important;
-      left: auto !important;
-      top: auto !important; }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-ten {
-          right: 0px !important;
-          bottom: 140px !important; } }
-      @media (max-width: 767px) {
-        .header-content .header-shape.shape-ten img {
-          width: 100px; } }
+  
 
 .header-content-right {
   position: relative; }
   .header-content-right .sub-title {
     font-size: 30px;
-    color: #754ef9;
+    color: #070707;
     text-transform: uppercase;
     padding-bottom: 15px; }
     @media (max-width: 767px) {
@@ -381,7 +285,7 @@ p {
         float: left; } }
 .about-content .single-info .info-icon i {
   font-size: 16px;
-  color: #754ef9; }
+  color: #070707; }
 .about-content .single-info .info-text {
   padding-left: 13px; }
   .about-content .single-info .info-text p span {
@@ -538,3 +442,48 @@ p {
               background-color: #754ef9;
               color: #fff;
               border-color: #754ef9; }
+
+              /*footer*/
+                @media only screen and (min-width: 768px) and (max-width: 991px) {
+                  .footer-widget {
+                    padding-top: 100px;
+                    padding-bottom: 100px; } }
+                @media (max-width: 767px) {
+                  .footer-widget {
+                    padding-top: 80px;
+                    padding-bottom: 80px; } }
+              
+              .footer-content p {
+                color: #fff;
+                margin-top: 35px; }
+              .footer-content ul {
+                margin-top: 35px; }
+                .footer-content ul li {
+                  display: inline-block;
+                  margin: 0 14px; }
+                  @media (max-width: 767px) {
+                    .footer-content ul li {
+                      margin: 0 7px; } }
+                  .footer-content ul li a {
+                    font-size: 30px;
+                    width: 74px;
+                    height: 70px;
+                    line-height: 74px;
+                    text-align: center;
+                    border-radius: 50%;
+                    color: #bebebe;
+                    background-color: #666769;
+                    -webkit-transition: all 0.3s ease-out 0s;
+                    -moz-transition: all 0.3s ease-out 0s;
+                    -ms-transition: all 0.3s ease-out 0s;
+                    -o-transition: all 0.3s ease-out 0s;
+                    transition: all 0.3s ease-out 0s; }
+                    @media (max-width: 767px) {
+                      .footer-content ul li a {
+                        width: 52px;
+                        height: 50px;
+                        line-height: 50px;
+                        font-size: 20px; } }
+                    .footer-content ul li a:hover {
+                      background-color: #f0f0f3;
+                      color: #fff; }
