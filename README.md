@@ -1,6 +1,6 @@
 # Updated portfolio!
 
-For this assingnment we are responsible for updating our profile with details of both our profesional work and work from coding 
+For this assingnment we are responsible for updating our profile with a page that is created with react that is broken down into multiple components
 
 # Content
 
@@ -13,15 +13,18 @@ CSS
 HTML
 Bootstrap
 Google fonts
+React
+React_DOM
+JSX
+JS
 
-![Screenshot](https://github.com/pboerma/portfolio/blob/master/assets/screenshot.png)
+![Screenshot](my-app/public/assets/screensh.PNG)
 
 # Future features
 
-Create a POST form for Email so people visitng my page will be able to interact with the form
-Add more creative content to the page
-Fix responsiveness for landing page
-Add more visuals to page including images and different styling
+Still need to break the one big component into multiple components, including header and footer that stick with the screen.
+Still need to deploy
+Add search field for project details
 
 # Website and Repo
 

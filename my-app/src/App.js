@@ -41,7 +41,7 @@ function App() {
     </div>
     <div className="col-lg-6 offset-xl-1">
         <div className="header-image d-none d-lg-block">
-            <img src="my-app/public/assets/PietB.jpg" alt="hero"/>
+            <img src="assets/PietB.jpg" alt="hero"/>
 </div> 
 </div> 
 </div>
